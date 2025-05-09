@@ -5,6 +5,7 @@ from impacket.krb5 import constants
 from impacket.dcerpc.v5 import transport, samr
 from binascii import hexlify
 from impacket.examples import logger
+from impacket.examples.ldap_shell import LdapShell # use the do_set_rbcd
 import logging
 
 
