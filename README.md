@@ -22,6 +22,9 @@ The technique is as follows (from https://www.thehacker.recipes/ad/movement/kerb
 
 ## References:
 https://github.com/fortra/impacket/blob/master/examples/rbcd.py
+
 https://github.com/snovvcrash/impacket/blob/master/examples/smbpasswd.py
+
 https://twitter.com/tiraniddo
+
 https://www.thehacker.recipes/ad/movement/kerberos/delegations/rbcd#rbcd-on-spn-less-users
